@@ -1,0 +1,59 @@
+.HOMEDIV {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-image: url('https://www.persiantouring.com/wp-content/uploads/2016/02/norooz-4.jpg');
+  height: 150vh;
+
+}
+
+.submitButton {
+
+  background-color: lightblue;
+  font-size: x-large;
+  font-weight: bold;
+  width: 150px;
+  height: 70px;
+  justify-content: center;
+}
+
+.HighlitedTextDiv{
+    margin:20px;
+}
+
+.Highlighted {
+  margin: 20px;
+  padding: 20px;
+  font-weight: bold;
+  background-color: lightgreen;
+}
+
+.inputElement {
+  padding: 10px;
+  border: ridge;
+}
+
+.PI {
+  background-color: lightgreen;
+  padding: 10px;
+}
+
+.FinalDiv {
+  padding:20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-image: url('https://www.ecdc.europa.eu/sites/default/files/styles/is_large/public/images/Coronavirus_H.png?itok=_QCjKfqJ');
+  height: 200vh;
+}
+
+#warning {
+  color: red;
+  background-color: black;
+}
+
+p {
+  background-color: white;
+  font-size: x-large;
+  font-weight: bold;
+}
