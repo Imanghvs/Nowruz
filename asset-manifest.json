@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nowruz/static/css/main.b178a2d6.chunk.css",
+    "main.js": "/Nowruz/static/js/main.863dfdbd.chunk.js",
+    "main.js.map": "/Nowruz/static/js/main.863dfdbd.chunk.js.map",
+    "runtime-main.js": "/Nowruz/static/js/runtime-main.733e3177.js",
+    "runtime-main.js.map": "/Nowruz/static/js/runtime-main.733e3177.js.map",
+    "static/js/2.f5f68336.chunk.js": "/Nowruz/static/js/2.f5f68336.chunk.js",
+    "static/js/2.f5f68336.chunk.js.map": "/Nowruz/static/js/2.f5f68336.chunk.js.map",
+    "index.html": "/Nowruz/index.html",
+    "precache-manifest.c726808f1eca8f662984d95e947ded51.js": "/Nowruz/precache-manifest.c726808f1eca8f662984d95e947ded51.js",
+    "service-worker.js": "/Nowruz/service-worker.js",
+    "static/css/main.b178a2d6.chunk.css.map": "/Nowruz/static/css/main.b178a2d6.chunk.css.map",
+    "static/js/2.f5f68336.chunk.js.LICENSE.txt": "/Nowruz/static/js/2.f5f68336.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.733e3177.js",
+    "static/js/2.f5f68336.chunk.js",
+    "static/css/main.b178a2d6.chunk.css",
+    "static/js/main.863dfdbd.chunk.js"
+  ]
+}
